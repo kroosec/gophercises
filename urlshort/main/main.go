@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/kroosec/gophercises/exercise2/urlshort"
+	"github.com/kroosec/gophercises/urlshort"
 	"net/http"
 )
 

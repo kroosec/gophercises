@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/kroosec/gophercises/exercise3/cyoa"
+	"github.com/kroosec/gophercises/cyoa"
 	"html/template"
 	"log"
 	"net/http"
